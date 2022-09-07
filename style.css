@@ -1,0 +1,22 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+/*Header css start*/
+header{
+    background-color: #0762a8;
+}
+.Logo{
+    font-weight: bold;
+    
+}
+.nav-link{
+    color: #fff !important;
+    font-size: 17px;
+    margin-left: 14px;
+}
+.nav-link:hover{
+    font-style: italic;
+color: gray;
+}
+
+/*Header css End*/
